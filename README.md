@@ -33,17 +33,16 @@
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`
 - 📫 Feel free to reach me out **eliseovilla10@gmail.com**
-<a href="https://www.linkedin.com/in/eliseovilla/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="100" height="25">
-<!--Intro end-->
+<a href="https://www.linkedin.com/in/eliseovilla/" target="_blank"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="100" height="25"/>
+<a/>
 
+![](https://komarev.com/ghpvc/?username=eliseovillaok&style=flat-square)
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
-<div align="center">
-<a href="https://github.com/eliseovillaok">
-  <img src="https://github-readme-stats.vercel.app/api?username=eliseovillaok&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eliseovillaok&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="EliseoVilla"/>
 </a>
 </div>
