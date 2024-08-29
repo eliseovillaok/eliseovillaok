@@ -3,16 +3,8 @@
 
 <!--- image -->
 <div align="center">
-  <img  src="Banner.gif"
+  <img  src="Banner(2).gif"
        alt="Banner" /></a>
-</div>
-
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Systems Engineering Student</h2></summary>
-  </ul>
 </div>
 
  ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
@@ -41,18 +33,8 @@
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`
 - 📫 Feel free to reach me out **eliseovilla10@gmail.com**
-<br>
-<h2 align="center">
-  <a href="https://www.linkedin.com/in/eliseovilla/" target="_blank">
+<a href="https://www.linkedin.com/in/eliseovilla/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="100" height="25">
-  </a>
-</h2>
-
-
-
-
-
-
 <!--Intro end-->
 
 
@@ -65,3 +47,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eliseovillaok&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="EliseoVilla"/>
 </a>
 </div>
+<!--horizontal divider(gradiant)-->
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
