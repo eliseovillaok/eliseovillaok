@@ -38,6 +38,7 @@
 <a href="https://www.linkedin.com/in/eliseovilla/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="100" height="25" />
 </a>
+
 <!-- Profile Views -->
 ![](https://komarev.com/ghpvc/?username=eliseovillaok&style=flat-square)
 
