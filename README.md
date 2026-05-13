@@ -46,8 +46,13 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
 <br>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eliseovillaok&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="Eliseo Villa GitHub Stats"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eliseovillaok&show_icons=true&count_private=true&hide_border=true&title_color=0f766e&icon_color=0f766e&text_color=334155&bg_color=ffffff" height="170" alt="Eliseo Villa GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=eliseovillaok&hide_border=true&background=FFFFFF&ring=0f766e&fire=f97316&currStreakLabel=0f766e&sideLabels=334155&currStreakNum=334155&dates=64748b&sideNums=334155" height="170" alt="Eliseo Villa GitHub Streak"/>
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eliseovillaok&layout=compact&langs_count=8&hide_border=true&title_color=0f766e&text_color=334155&bg_color=ffffff" height="170" alt="Top Languages"/>
 </div>
 
 <!-- Divider -->
