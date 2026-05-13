@@ -9,29 +9,31 @@
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 
 <p>
-  At 22, I'm completing my fourth year of studying <strong>Systems Engineering</strong> and i'm excited to start my professional life. My goal is to immerse myself in dynamic projects and make valuable contributions to the tech community. I am dedicated to continuous learning and professional growth, seeking opportunities that align with my passion for advancing technology and making a meaningful impact in the field.
+  I am a <strong>Software Engineer</strong>, 24 years old, focused on <strong>backend development</strong>, <strong>cloud infrastructure</strong>, and <strong>DevOps practices</strong>. I enjoy designing reliable services, automating delivery pipelines, and building scalable systems with a strong emphasis on maintainability, observability, and operational excellence.
 </p>
 
 <!-- Section Title -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Backend, Cloud & DevOps Stack 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 
 <!-- Tech Stack Icons -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,py,java,cpp,postgres,mongodb,notion,github,git,docker,vscode,vim,linux&perline=14" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,java,go,bash,postgres,mongodb,redis,docker,kubernetes,terraform,aws,gcp,githubactions,git,linux,vim&perline=8" alt="Tech Stack" />
   </a>
 </p>
 
 <!-- Intro -->
 <br><br>
-- :student: I am studying Systems Engineering at [UNICEN](https://www.unicen.edu.ar).
-- :technologist: I love use software as a solution for every `problem`.
+- :mortar_board: Systems Engineer with a software engineering mindset and a strong interest in high-impact platforms.
+- :technologist: I build backend services and cloud-based systems for real-world `problems`.
+- :gear: Interested in automation, CI/CD, infrastructure as code, containerized workloads, and reliable delivery processes.
 - :nerd_face: Always `learning new things`.
-- :thinking: I'm currently open for a new `job opportunity`.
+- :cloud: Focused on backend development, cloud infrastructure, DevOps, and scalable production environments.
+- :thinking: Open to backend, cloud, and DevOps engineering `opportunities`.
 - 📫 Feel free to reach out to me at **eliseovilla10@gmail.com**.
 
 <!-- LinkedIn Badge -->
